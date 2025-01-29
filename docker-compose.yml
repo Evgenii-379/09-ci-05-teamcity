@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  openjdk:
+    image: openjdk:latest
+    container_name: openjdk_container
+
+  nexus:
+    image: sonatype/nexus3
+    container_name: nexus_container
+    ports:
+      - "8081:8081"
