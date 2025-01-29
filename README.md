@@ -48,6 +48,6 @@
 - ![scrin](https://github.com/Evgenii-379/09-ci-05-teamcity/blob/main/Снимок%20экрана%202025-01-29%20225736.png)
 - ![scrin](https://github.com/Evgenii-379/09-ci-05-teamcity/blob/main/Снимок%20экрана%202025-01-29%20225847.png)
 
-- [ссылка на репозиторий example-teamcity](https://github.com/Evgenii-379/example-teamcity/blob/master/README.md) 
+- ссылка на репозиторий example-teamcity [https://github.com/Evgenii-379/example-teamcity/blob/master/README.md](https://github.com/Evgenii-379/example-teamcity/blob/master/README.md) 
 
 
